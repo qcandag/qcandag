@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bunyamin Can Dag</h1>
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qcandag&label=Profile%20views&color=0e75b6&style=flat" alt="qcandag" /> </p>
+
 - 🌱 I’m currently learning **NodeJS, NestJS, AdonisJS**
 
 - 💬 Ask me about **python, javascript,typescript**
@@ -26,3 +28,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bunyamincaX"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bunyamincaX" /></a></p><br><br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qcandag&show_icons=true&locale=en" alt="qcandag" /></p>
