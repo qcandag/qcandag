@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bunyamin Can Dag</h1>
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qcandag&label=Profile%20views&color=0e75b6&style=flat" alt="qcandag" /> </p>
 <p align="right"> <img  alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </p>
 
 
@@ -13,6 +11,9 @@
 - 📫 How to reach me **bunyamincan.dag@outlook.com**
 
 - ⚡ Fun fact **I am good at something :)**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qcandag&label=Profile%20views&color=0e75b6&style=flat" alt="qcandag" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
